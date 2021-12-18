@@ -1,0 +1,197 @@
+short_name,player_positions,overall,value_eur,wage_eur,age,club_name,league_name,nationality_name,year,position
+K. De Bruyne,"CM, CAM",91,125500000,350000,30,Manchester City,English Premier League,Belgium,2022,Midfielder
+R. Sterling,"LW, RW",88,107500000,290000,26,Manchester City,English Premier League,England,2022,Attacker
+Cristiano Ronaldo,"ST, LW",91,45000000,270000,36,Manchester United,English Premier League,Portugal,2022,Attacker
+S. Mané,LW,89,101000000,270000,29,Liverpool,English Premier League,Senegal,2022,Attacker
+M. Salah,RW,89,101000000,270000,29,Liverpool,English Premier League,Egypt,2022,Attacker
+R. Lukaku,ST,88,93500000,260000,28,Chelsea,English Premier League,Belgium,2022,Attacker
+Bruno Fernandes,CAM,88,107500000,250000,26,Manchester United,English Premier League,Portugal,2022,Midfielder
+H. Kane,ST,90,129500000,240000,27,Tottenham Hotspur,English Premier League,England,2022,Attacker
+N. Kanté,"CDM, CM",90,100000000,230000,30,Chelsea,English Premier League,France,2022,Midfielder
+V. van Dijk,CB,89,86000000,230000,29,Liverpool,English Premier League,Netherlands,2022,Defender
+H. Son,"LM, CF, LW",89,104000000,220000,28,Tottenham Hotspur,English Premier League,Korea Republic,2022,Midfielder
+P. Pogba,"CM, LM",87,79500000,220000,28,Manchester United,English Premier League,France,2022,Midfielder
+R. Mahrez,"RW, RM",86,65500000,220000,30,Manchester City,English Premier League,Algeria,2022,Attacker
+Ederson,GK,89,94000000,200000,27,Manchester City,English Premier League,Brazil,2022,Goalkeeper
+Bernardo Silva,"CAM, CM, RW",86,80000000,200000,26,Manchester City,English Premier League,Portugal,2022,Midfielder
+Alisson,GK,89,82000000,190000,28,Liverpool,English Premier League,Brazil,2022,Goalkeeper
+E. Cavani,ST,85,26000000,190000,34,Manchester United,English Premier League,Uruguay,2022,Attacker
+João Cancelo,"RB, LB",86,71500000,185000,27,Manchester City,English Premier League,Portugal,2022,Defender
+A. Laporte,CB,86,77000000,185000,27,Manchester City,English Premier League,Spain,2022,Defender
+İ. Gündoğan,"CM, CDM",85,51500000,185000,30,Manchester City,English Premier League,Germany,2022,Midfielder
+Roberto Firmino,CF,85,54000000,185000,29,Liverpool,English Premier League,Brazil,2022,Attacker
+Thiago,"CM, CDM",86,65000000,180000,30,Liverpool,English Premier League,Spain,2022,Midfielder
+R. Varane,CB,86,68500000,180000,28,Manchester United,English Premier League,France,2022,Defender
+J. Grealish,"LW, LM, CAM",84,50500000,180000,25,Manchester City,English Premier League,England,2022,Attacker
+A. Robertson,LB,87,83500000,175000,27,Liverpool,English Premier League,Scotland,2022,Defender
+Rodri,CDM,86,81000000,175000,25,Manchester City,English Premier League,Spain,2022,Midfielder
+Rúben Dias,CB,87,102500000,170000,24,Manchester City,English Premier League,Portugal,2022,Defender
+K. Walker,RB,85,39000000,170000,31,Manchester City,English Premier League,England,2022,Defender
+Jorginho,"CM, CDM",85,52500000,170000,29,Chelsea,English Premier League,Italy,2022,Midfielder
+H. Ziyech,"RW, CAM",84,42500000,170000,28,Chelsea,English Premier League,Morocco,2022,Attacker
+Fabinho,"CDM, CB",86,73500000,165000,27,Liverpool,English Premier League,Brazil,2022,Midfielder
+H. Maguire,CB,84,42500000,155000,28,Manchester United,English Premier League,England,2022,Defender
+T. Werner,"ST, LW",84,56500000,155000,25,Chelsea,English Premier League,Germany,2022,Attacker
+T. Alexander-Arnold,RB,87,114000000,150000,22,Liverpool,English Premier League,England,2022,Defender
+J. Sancho,"RM, CF, LM",87,116500000,150000,21,Manchester United,English Premier League,England,2022,Midfielder
+M. Rashford,"LM, ST",85,77500000,150000,23,Manchester United,English Premier League,England,2022,Midfielder
+Gabriel Jesus,ST,83,52500000,150000,24,Manchester City,English Premier League,Brazil,2022,Attacker
+P. Aubameyang,"ST, LW, LM",85,43500000,145000,32,Arsenal,English Premier League,Gabon,2022,Attacker
+J. Henderson,"CDM, CM",84,29500000,140000,31,Liverpool,English Premier League,England,2022,Midfielder
+L. Shaw,LB,84,48500000,140000,25,Manchester United,English Premier League,England,2022,Defender
+J. Stones,CB,83,41000000,140000,27,Manchester City,English Premier League,England,2022,Defender
+M. Kovačić,"CM, CDM",83,41500000,135000,27,Chelsea,English Premier League,Croatia,2022,Midfielder
+K. Havertz,"CAM, CF, CM",84,94500000,130000,22,Chelsea,English Premier League,Germany,2022,Midfielder
+J. Matip,CB,83,30500000,130000,29,Liverpool,English Premier League,Cameroon,2022,Defender
+A. Rüdiger,CB,83,34500000,130000,28,Chelsea,English Premier League,Germany,2022,Defender
+Alex Telles,LB,82,27500000,130000,28,Manchester United,English Premier League,Brazil,2022,Defender
+A. Martial,"ST, LM",81,34500000,130000,25,Manchester United,English Premier League,France,2022,Attacker
+H. Lloris,GK,87,13500000,125000,34,Tottenham Hotspur,English Premier League,France,2022,Goalkeeper
+P. Foden,"CAM, LW, CM",84,94500000,125000,21,Manchester City,English Premier League,England,2022,Midfielder
+Azpilicueta,"CB, RWB",83,25000000,125000,31,Chelsea,English Premier League,Spain,2022,Defender
+De Gea,GK,84,28000000,120000,30,Manchester United,English Premier League,Spain,2022,Goalkeeper
+M. Mount,"CAM, CM, RW",83,58500000,120000,22,Chelsea,English Premier League,England,2022,Midfielder
+Diogo Jota,"LW, ST",82,46000000,120000,24,Liverpool,English Premier League,Portugal,2022,Attacker
+C. Pulisic,"LW, RW, LM",82,49000000,120000,22,Chelsea,English Premier League,United States,2022,Attacker
+Ferran Torres,"RW, ST",82,68500000,120000,21,Manchester City,English Premier League,Spain,2022,Attacker
+Fred,"CDM, CM",81,22500000,120000,28,Manchester United,English Premier League,Brazil,2022,Midfielder
+T. Partey,"CM, CDM",83,36500000,115000,28,Arsenal,English Premier League,Ghana,2022,Midfielder
+A. Wan-Bissaka,RB,83,48500000,115000,23,Manchester United,English Premier League,England,2022,Defender
+J. Lingard,CAM,79,17500000,115000,28,Manchester United,English Premier League,England,2022,Midfielder
+A. Lacazette,ST,82,30000000,110000,30,Arsenal,English Premier League,France,2022,Attacker
+D. van de Beek,"CM, CAM, CDM",81,38500000,110000,24,Manchester United,English Premier League,Netherlands,2022,Midfielder
+N. Keïta,CM,80,27500000,110000,26,Liverpool,English Premier League,Guinea,2022,Midfielder
+Thiago Silva,CB,85,9500000,105000,36,Chelsea,English Premier League,Brazil,2022,Defender
+P. Højbjerg,"CDM, CM",83,43500000,105000,25,Tottenham Hotspur,English Premier League,Denmark,2022,Midfielder
+É. Mendy,GK,83,30000000,105000,29,Chelsea,English Premier League,Senegal,2022,Goalkeeper
+Lucas Moura,"RM, CF",81,26000000,105000,28,Tottenham Hotspur,English Premier League,Brazil,2022,Midfielder
+V. Lindelöf,CB,80,23000000,105000,26,Manchester United,English Premier League,Sweden,2022,Defender
+B. Mendy,LB,79,19000000,105000,26,Manchester City,English Premier League,France,2022,Defender
+Fernandinho,"CDM, CB",83,7000000,100000,36,Manchester City,English Premier League,Brazil,2022,Midfielder
+J. Gomez,CB,82,43500000,100000,24,Liverpool,English Premier League,England,2022,Defender
+B. Chilwell,"LWB, LB",82,40500000,100000,24,Chelsea,English Premier League,England,2022,Defender
+N. Matić,CDM,79,11500000,100000,32,Manchester United,English Premier League,Serbia,2022,Midfielder
+A. Oxlade-Chamberlain,CM,79,18500000,100000,27,Liverpool,English Premier League,England,2022,Midfielder
+E. Bailly,CB,79,17500000,100000,27,Manchester United,English Premier League,Côte d'Ivoire,2022,Defender
+Juan Mata,"CAM, RM",78,9000000,100000,33,Manchester United,English Premier League,Spain,2022,Midfielder
+T. Ndombele,"CAM, CM, CDM",82,46000000,95000,24,Tottenham Hotspur,English Premier League,France,2022,Midfielder
+N. Pépé,"RM, RW",81,30500000,95000,26,Arsenal,English Premier League,Côte d'Ivoire,2022,Attacker
+G. Lo Celso,"CM, CAM",81,35500000,95000,25,Tottenham Hotspur,English Premier League,Argentina,2022,Midfielder
+A. Christensen,CB,80,28000000,95000,25,Chelsea,English Premier League,Denmark,2022,Defender
+O. Zinchenko,"LB, CDM",80,29500000,95000,24,Manchester City,English Premier League,Ukraine,2022,Defender
+Marcos Alonso,"LWB, LB",79,15000000,95000,30,Chelsea,English Premier League,Spain,2022,Defender
+R. Barkley,"CAM, CM",78,16000000,95000,27,Chelsea,English Premier League,England,2022,Midfielder
+N. Aké,CB,78,16500000,95000,26,Manchester City,English Premier League,Netherlands,2022,Defender
+D. Alli,"CAM, CM",80,26500000,90000,25,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+S. McTominay,"CDM, CM",80,27500000,90000,24,Manchester United,English Premier League,Scotland,2022,Midfielder
+M. Ødegaard,"CAM, CM",82,49000000,89000,22,Arsenal,English Premier League,Norway,2022,Midfielder
+B. Leno,GK,83,28000000,87000,29,Arsenal,English Premier League,Germany,2022,Goalkeeper
+B. Davies,"LB, CB",79,16000000,85000,28,Tottenham Hotspur,English Premier League,Wales,2022,Defender
+T. Minamino,"RW, ST, LM",75,6500000,84000,26,Liverpool,English Premier League,Japan,2022,Attacker
+S. Bergwijn,"LM, LW, RM",80,30000000,82000,23,Tottenham Hotspur,English Premier League,Netherlands,2022,Midfielder
+E. Dier,"CB, CDM",79,17500000,81000,27,Tottenham Hotspur,English Premier League,England,2022,Defender
+G. Xhaka,"CDM, CM",79,15500000,80000,28,Arsenal,English Premier League,Switzerland,2022,Midfielder
+Reguilón,LB,81,32500000,79000,24,Tottenham Hotspur,English Premier League,Spain,2022,Defender
+D. Sánchez,CB,79,19500000,77000,25,Tottenham Hotspur,English Premier League,Colombia,2022,Defender
+M. Doherty,"RB, RWB",78,12500000,77000,29,Tottenham Hotspur,English Premier League,Republic of Ireland,2022,Defender
+R. James,"RWB, RB",81,37000000,76000,21,Chelsea,English Premier League,England,2022,Defender
+J. Milner,"CM, LB, RB",79,7000000,76000,35,Liverpool,English Premier League,England,2022,Midfielder
+Kepa,GK,79,19000000,76000,26,Chelsea,English Premier League,Spain,2022,Goalkeeper
+R. Loftus-Cheek,"RM, CAM",75,7500000,74000,25,Chelsea,English Premier League,England,2022,Midfielder
+I. Konaté,CB,78,29500000,73000,22,Liverpool,English Premier League,France,2022,Defender
+Z. Steffen,GK,77,12000000,73000,26,Manchester City,English Premier League,United States,2022,Goalkeeper
+P. Jones,CB,74,3500000,73000,29,Manchester United,English Premier League,England,2022,Defender
+C. Hudson-Odoi,"RW, LW",77,23000000,72000,20,Chelsea,English Premier League,England,2022,Attacker
+D. Henderson,GK,80,36000000,70000,24,Manchester United,English Premier League,England,2022,Goalkeeper
+Emerson,RB,79,25000000,70000,22,Tottenham Hotspur,English Premier League,Brazil,2022,Defender
+K. Tierney,"LB, CB, LWB",80,31000000,69000,24,Arsenal,English Premier League,Scotland,2022,Defender
+Saúl,"CM, LM",82,39500000,68000,26,Chelsea,English Premier League,Spain,2022,Midfielder
+M. Elneny,"CDM, CM",77,9500000,68000,28,Arsenal,English Premier League,Egypt,2022,Midfielder
+Diogo Dalot,"RB, LB",76,11500000,68000,22,Manchester United,English Premier League,Portugal,2022,Defender
+H. Winks,"CDM, CM",77,12500000,66000,25,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+Gabriel,CB,79,24000000,65000,23,Arsenal,English Premier League,Brazil,2022,Defender
+Cédric,"RB, RWB, LB",76,6500000,63000,29,Arsenal,English Premier League,Portugal,2022,Defender
+R. Holding,CB,77,13000000,62000,25,Arsenal,English Premier League,England,2022,Defender
+K. Tsimikas,"LB, LWB",74,5500000,62000,25,Liverpool,English Premier League,Greece,2022,Defender
+L. Karius,GK,75,5000000,61000,28,Liverpool,English Premier League,Germany,2022,Goalkeeper
+Pablo Marí,CB,76,8000000,60000,27,Arsenal,English Premier League,Spain,2022,Defender
+S. Kolašinac,"LB, LWB, CB",75,5000000,60000,28,Arsenal,English Premier League,Bosnia and Herzegovina,2022,Defender
+C. Chambers,"RB, CB",75,6500000,58000,26,Arsenal,English Premier League,England,2022,Defender
+M. Greenwood,"RM, ST",78,30500000,56000,19,Manchester United,English Premier League,England,2022,Midfielder
+M. Sarr,"CB, LB",74,5500000,56000,22,Chelsea,English Premier League,France,2022,Defender
+E. Nketiah,ST,74,8500000,56000,22,Arsenal,English Premier League,England,2022,Attacker
+Adrián,GK,74,725000,53000,34,Liverpool,English Premier League,Spain,2022,Goalkeeper
+B. White,"CB, CM",76,15500000,52000,23,Arsenal,English Premier League,England,2022,Defender
+Bryan Gil,"LM, RM, CAM",76,16500000,52000,20,Tottenham Hotspur,English Premier League,Spain,2022,Midfielder
+N. Phillips,CB,73,4400000,52000,24,Liverpool,English Premier League,England,2022,Defender
+C. Romero,CB,82,41500000,51000,23,Tottenham Hotspur,English Premier League,Argentina,2022,Defender
+C. Musonda,"RM, LM",72,3200000,51000,24,Chelsea,English Premier League,Belgium,2022,Midfielder
+B. Saka,"RM, LM, LB",80,45500000,50000,19,Arsenal,English Premier League,England,2022,Midfielder
+E. Smith Rowe,CAM,76,16500000,49000,20,Arsenal,English Premier League,England,2022,Midfielder
+Gabriel Martinelli,"LM, LW",76,18000000,49000,20,Arsenal,English Premier League,Brazil,2022,Attacker
+A. Maitland-Niles,"CDM, RB, RWB",75,8000000,49000,23,Arsenal,English Premier League,England,2022,Midfielder
+T. Tomiyasu,"CB, RB",75,12000000,49000,22,Arsenal,English Premier League,Japan,2022,Defender
+J. Tanganga,"RB, CB, LB",74,9000000,49000,22,Tottenham Hotspur,English Premier League,England,2022,Defender
+C. Jones,CM,73,7500000,49000,20,Liverpool,English Premier League,England,2022,Midfielder
+P. Gollini,GK,82,35000000,48000,26,Tottenham Hotspur,English Premier League,Italy,2022,Goalkeeper
+R. Sessegnon,"LWB, LM, LB",75,12000000,44000,21,Tottenham Hotspur,English Premier League,England,2022,Defender
+O. Skipp,"CDM, CM",75,11500000,44000,20,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+T. Chalobah,"CB, CDM, CM",73,5500000,43000,21,Chelsea,English Premier League,England,2022,Defender
+T. Heaton,GK,76,825000,42000,35,Manchester United,English Premier League,England,2022,Goalkeeper
+L. Baker,"CDM, CAM, CM",70,2000000,41000,26,Chelsea,English Premier League,England,2022,Midfielder
+A. Sambi Lokonga,"CM, CDM",73,7000000,40000,21,Arsenal,English Premier League,Belgium,2022,Midfielder
+J. Rodon,CB,72,4900000,40000,23,Tottenham Hotspur,English Premier League,Wales,2022,Defender
+M. Bettinelli,GK,71,1600000,40000,29,Chelsea,English Premier League,England,2022,Goalkeeper
+A. Ramsdale,GK,74,5000000,36000,23,Arsenal,English Premier League,England,2022,Goalkeeper
+H. Elliott,"RW, CM",73,7000000,29000,18,Liverpool,English Premier League,England,2022,Attacker
+Nuno Tavares,LB,70,3400000,24000,21,Arsenal,English Premier League,Portugal,2022,Defender
+N. Williams,RB,68,2800000,21000,20,Liverpool,English Premier League,Wales,2022,Defender
+J. Clarke,"RM, LM",67,2500000,18000,20,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+C. Kelleher,GK,67,2200000,17000,22,Liverpool,English Premier League,Republic of Ireland,2022,Goalkeeper
+S. Carson,GK,67,110000,15000,35,Manchester City,English Premier League,England,2022,Goalkeeper
+L. Bolton,"RB, RWB, RM",64,1100000,14000,21,Manchester City,English Premier League,England,2022,Defender
+C. Palmer,"RW, CAM",64,1600000,14000,19,Manchester City,English Premier League,England,2022,Attacker
+A. Diallo,RM,68,3100000,12000,18,Manchester United,English Premier League,Côte d'Ivoire,2022,Midfielder
+Kayky,RW,66,2700000,12000,18,Manchester City,English Premier League,Brazil,2022,Attacker
+A. Elanga,"LM, ST",65,1700000,12000,19,Manchester United,English Premier League,Sweden,2022,Midfielder
+L. Grant,GK,65,80000,11000,38,Manchester United,English Premier League,England,2022,Goalkeeper
+T. Uwakwe,LWB,63,1100000,11000,21,Chelsea,English Premier League,England,2022,Defender
+F. Balogun,ST,64,1500000,10000,19,Arsenal,English Premier League,England,2022,Attacker
+T. Mengi,CB,64,1400000,10000,19,Manchester United,English Premier League,England,2022,Defender
+G. McEachran,"CM, CDM",60,600000,10000,20,Chelsea,English Premier League,England,2022,Midfielder
+J. Russell,CM,59,500000,10000,20,Chelsea,English Premier League,England,2022,Midfielder
+Iker Pozo,CDM,57,375000,10000,20,Manchester City,English Premier League,Spain,2022,Midfielder
+L. Delap,ST,64,1900000,9000,18,Manchester City,English Premier League,England,2022,Attacker
+J. Braaf,"LW, RW",64,1600000,9000,18,Manchester City,English Premier League,Netherlands,2022,Attacker
+J. Olayinka,"CM, CAM, LM",60,600000,8000,20,Arsenal,English Premier League,England,2022,Midfielder
+E. Dixon-Bonner,CDM,57,400000,8000,20,Liverpool,English Premier League,England,2022,Midfielder
+M. Boyes,"CB, LB",57,375000,8000,20,Liverpool,English Premier League,Wales,2022,Defender
+T. Clayton,CB,57,400000,8000,20,Liverpool,English Premier League,Scotland,2022,Defender
+S. Edozie,LW,62,1100000,7000,18,Manchester City,English Premier League,England,2022,Attacker
+T. Akinola,"CDM, CM",61,825000,7000,20,Arsenal,English Premier League,England,2022,Midfielder
+M. Lavinier,"RB, CB",58,525000,7000,20,Tottenham Hotspur,English Premier League,England,2022,Defender
+B. Lyons-Foster,CB,57,400000,7000,20,Tottenham Hotspur,English Premier League,England,2022,Defender
+H. White,"CDM, LB, LM",62,975000,6000,19,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+H. Mejbri,"CAM, CM",62,1300000,6000,18,Manchester United,English Premier League,Tunisia,2022,Midfielder
+M. Fagan-Walcott,CB,61,800000,6000,19,Tottenham Hotspur,English Premier League,England,2022,Defender
+J. McAtee,CAM,61,825000,6000,18,Manchester City,English Premier League,England,2022,Midfielder
+D. Markanday,RM,58,525000,6000,19,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+S. McClelland,CB,55,300000,6000,19,Chelsea,English Premier League,Northern Ireland,2022,Defender
+Joel López,LB,60,600000,5000,19,Arsenal,English Premier League,Spain,2022,Defender
+D. Hoogewerf,"RM, CF",60,625000,5000,18,Manchester United,English Premier League,Netherlands,2022,Midfielder
+C. Cîrjan,"CM, RM",62,1000000,4000,18,Arsenal,English Premier League,Romania,2022,Midfielder
+N. John,CAM,61,825000,4000,18,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+D. Scarlett,ST,63,1500000,3000,17,Tottenham Hotspur,English Premier League,England,2022,Attacker
+A. Okonkwo,GK,61,750000,3000,19,Arsenal,English Premier League,England,2022,Goalkeeper
+M. Paskotsi,RB,60,650000,3000,18,Tottenham Hotspur,English Premier League,Estonia,2022,Defender
+J. Norris,LB,60,600000,3000,18,Liverpool,English Premier League,England,2022,Defender
+J. Brooking,"CB, RB",59,575000,3000,18,Chelsea,English Premier League,England,2022,Defender
+B. Koumetio,CB,57,500000,3000,18,Liverpool,English Premier League,France,2022,Defender
+J. Ideho,"LM, RM, CF",62,900000,2000,17,Arsenal,English Premier League,Netherlands,2022,Midfielder
+S. Shoretire,"RM, LM",62,1200000,2000,17,Manchester United,English Premier League,England,2022,Midfielder
+Marcelo Pitaluga,GK,57,475000,1000,18,Liverpool,English Premier League,Brazil,2022,Goalkeeper
+A. Devine,"CM, CDM",57,500000,1000,16,Tottenham Hotspur,English Premier League,England,2022,Midfielder
+L. Bergström,GK,54,275000,1000,18,Chelsea,English Premier League,Finland,2022,Goalkeeper
+L. Mbete,CB,62,1000000,700,17,Manchester City,English Premier League,England,2022,Defender
+R. Lavia,CDM,62,1200000,700,17,Manchester City,English Premier League,Belgium,2022,Midfielder
+Z. Monlouis,CB,61,625000,500,17,Arsenal,English Premier League,England,2022,Defender
